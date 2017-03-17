@@ -4,7 +4,9 @@ from aluno1 import ler_numero
 from aluno2 import maior
 
 
-for w in range (10)
+def main():
+	lista = ler_numeros(10)
+	print(maior(lista))
 
 
 
