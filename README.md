@@ -1,2 +1,2 @@
-# aula_git
-projeto em aula para pratica de git
+# Aula_git
+Projeto em aula para pratica de git
